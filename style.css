@@ -1,6 +1,10 @@
 /* Add CSS styling */
 
-.title{
+.title,
+h2{
 
     text-align: center;
+    color: goldenrod;
+    background-color: black;
 }
+
